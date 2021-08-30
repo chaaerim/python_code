@@ -26,4 +26,3 @@ while turn>0:
     if turn ==0:
         print('패배 답은 ', word)
 infile.close()
-햣
